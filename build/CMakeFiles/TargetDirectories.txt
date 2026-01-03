@@ -1,0 +1,3 @@
+C:/Users/prate/Downloads/lucknow/build/CMakeFiles/LucknowCore.dir
+C:/Users/prate/Downloads/lucknow/build/CMakeFiles/edit_cache.dir
+C:/Users/prate/Downloads/lucknow/build/CMakeFiles/rebuild_cache.dir
