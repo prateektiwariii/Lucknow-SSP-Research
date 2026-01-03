@@ -19,10 +19,8 @@ This repository contains the complete computational framework and analytical pip
 The detailed theoretical findings, mathematical proofs, and exhaustive geospatial analysis are available in the accompanying paper.
 
 ****
-
-- **📥 [Download Research Paper (PDF)]((https://drive.google.com/file/d/1LAscWCBEEsvUR1EpDBS2_7EXT01mYSMy/view?usp=sharing))**
-- **📊 [Access Raw CSV Datasets]((https://drive.google.com/file/d/1LAscWCBEEsvUR1EpDBS2_7EXT01mYSMy/view?usp=sharing))**
-
+- **📥 [Download Research Paper (PDF)](https://drive.google.com/file/d/1LAscWCBEEsvUR1EpDBS2_7EXT01mYSMy/view?usp=sharing)**
+- **📊 [Access Raw CSV Datasets](https://drive.google.com/file/d/1LAscWCBEEsvUR1EpDBS2_7EXT01mYSMy/view?usp=sharing)**
 ---
 
 ## 🛠 Tech Stack
