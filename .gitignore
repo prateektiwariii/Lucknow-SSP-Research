@@ -1,0 +1,45 @@
+# --- C++ / Compiled Binaries ---
+*.exe
+*.o
+*.obj
+*.out
+build/
+bin/
+.vscode/
+.vs/
+cmake-build-debug/
+cmake-build-release/
+
+# --- Python / Analysis ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# --- LaTeX / Research Paper ---
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# --- Data & Large Files ---
+# (Ignore large PBF or raw data files that exceed 100MB)
+*.pbf
+*.osm
+*.csv
+# If you want to keep specific CSVs like lucknow_research_data.csv, 
+# you can unignore it by adding: !lucknow_research_data.csv
+
+# --- System / OS ---
+.DS_Store
+Thumbs.db
